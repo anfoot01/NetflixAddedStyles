@@ -1,0 +1,23 @@
+
+body {
+    padding-left: 80rem;
+    padding-top: 40rem;
+    padding-right: 33rem;
+    font-size: 16rem;
+    font-family: "Inter", sans-serif;
+    background: rgb(69, 69, 69);
+}
+
+html {
+    font-size: 1px
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    // background: url(../assets/bg-photo.png);
+    
+    background-position: center top;
+    background-size: 100% auto;
+}
