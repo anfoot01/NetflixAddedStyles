@@ -1,5 +1,4 @@
 import Header from "./components/Header"
-
 import Genre from "./components/Genre"
 import FilmDesc from "./components/FilmDesc"
 import Rating from "./components/Rating"
